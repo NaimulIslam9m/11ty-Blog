@@ -1,5 +1,5 @@
 ---
-title: Obfuscated
+title: Obfuscated Writeup - CyberDefenders
 description: Easy obfuscated VBA code challenge in cyberdefenders
 author: Naimul Islam
 date: 2023-08-01T07:43:57.799Z
