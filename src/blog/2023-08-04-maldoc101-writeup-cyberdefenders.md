@@ -13,6 +13,8 @@ tags:
 image: https://cyberdefenders.org/media/terraform/MalDoc101/MalDoc101.jpg
 imageAlt: maldoc
 ---
+>﻿ It is common for threat actors to utilize living off the land (LOTL) techniques, such as the execution of PowerShell to further their attacks and transition from macro code. This challenge is intended to show how you can often times perform quick analysis to extract important IOCs. The focus of this exercise is on static techniques for analysis.
+
 ## 1.  Multiple streams contain macros in this document. Provide the number of highest one.
 ```
 oledump.py sample.bin
