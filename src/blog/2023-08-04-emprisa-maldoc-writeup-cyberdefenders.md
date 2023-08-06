@@ -5,7 +5,7 @@ author: Naimul Islam
 date: 2023-08-04T15:28:15.050Z
 tags:
   - post
-image: https://cyberdaily.securelayer7.net/wp-content/uploads/2021/12/rtf-file-malware.jpg
+image: https://cyberdefenders.org/media/terraform/Emprisa%20Maldoc/Emprisa_Maldoc.jpg
 imageAlt: RTF
 ---
 > As a SOC analyst, you were asked to inspect a suspected document a user received in his inbox. One of your colleagues told you that he could not find anything suspicious. However, throwing the document into the sandboxing solution triggered some alerts.
