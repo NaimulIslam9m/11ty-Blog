@@ -5,7 +5,7 @@ author: Naimul Islam
 date: 2023-07-30T07:17:43.312Z
 tags:
   - post
-image: /assets/blog/no-code-1.jpg
+image: https://cyberdefenders.org/media/terraform/RE101/RE101.jpg
 imageAlt: encrypted-code
 ---
 ## I've used this new encryption I heard about online for my warez; I bet you can't extract the flag! (File: MALWARE000)
