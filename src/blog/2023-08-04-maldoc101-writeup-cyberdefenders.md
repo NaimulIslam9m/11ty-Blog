@@ -1,12 +1,16 @@
 ---
 title: MalDoc101 Writeup - CyberDefenders
-description: Analyzing malicious MS office document file in cyberdefenders.
+description: It is common for threat actors to utilize living off the land
+  (LOTL) techniques, such as the execution of PowerShell to further their
+  attacks and transition from macro code. This challenge is intended to show how
+  you can often times perform quick analysis to extract important IOCs. The
+  focus of this exercise is on static techniques for analysis.
 author: Naimul Islam
 date: 2023-08-02T07:46:51.309Z
 tags:
   - post
   - featured
-image: http://www.gispp.org/wp-content/uploads/2022/03/Banner.png
+image: https://cyberdefenders.org/media/terraform/MalDoc101/MalDoc101.jpg
 imageAlt: maldoc
 ---
 ## 1.  Multiple streams contain macros in this document. Provide the number of highest one.
