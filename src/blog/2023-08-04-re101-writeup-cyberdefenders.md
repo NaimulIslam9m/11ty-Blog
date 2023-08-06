@@ -10,6 +10,8 @@ tags:
 image: https://cyberdefenders.org/media/terraform/RE101/RE101.jpg
 imageAlt: encrypted-code
 ---
+>﻿ RE101 challenge is a binary analysis exercise - a task security blue team analysts do to understand how a specific malware works and extract possible intel.
+
 ## I've used this new encryption I heard about online for my warez; I bet you can't extract the flag! (File: MALWARE000)
 
 die > strings
