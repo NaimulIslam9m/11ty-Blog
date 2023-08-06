@@ -1,6 +1,8 @@
 ---
 title: RE101 Writeup - CyberDefenders
-description: Easy reversing challenge of cyberdefenders
+description: RE101 challenge is a binary analysis exercise - a task security
+  blue team analysts do to understand how a specific malware works and extract
+  possible intel.
 author: Naimul Islam
 date: 2023-07-30T07:17:43.312Z
 tags:
