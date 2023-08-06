@@ -1,11 +1,18 @@
 ---
 title: XLM Macros Writeup - CyberDefenders
+description: Recently, we have seen a resurgence of Excel-based malicous office
+  documents. Howerver, instead of using VBA-style macros, they are using older
+  style Excel 4 macros. This changes our approach to analyzing these documents,
+  requiring a slightly different set of tools. In this challenge, you, as a
+  security blue team analyst will get hands-on with two documents that use Excel
+  4.0 macros to perform anti-analysis and download the next stage of the attack.
 author: Naimul Islam
 date: 2023-08-04
-tags: ["post", "featured"]
-image: /assets/blog/forensic-1.jpg
-imageAlt:
-description: Analysis of Excel document that uses excel 4.0 macros instead of VBA.
+tags:
+  - post
+  - featured
+image: https://cyberdefenders.org/media/terraform/XLM%20Macros/XLM_Macros.jpg
+imageAlt: XLM
 ---
 
 > Recently, we have seen a resurgence of Excel-based malicous office documents. Howerver, instead of using VBA-style macros, they are using older style Excel 4 macros. This changes our approach to analyzing these documents, requiring a slightly different set of tools. In this challenge, you'll get hands-on with two documents that use Excel 4.0 macros to perform anti-analysis and download the next stage of the attack.
