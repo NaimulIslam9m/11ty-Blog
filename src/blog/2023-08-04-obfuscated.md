@@ -1,13 +1,18 @@
 ---
 title: Obfuscated Writeup - CyberDefenders
-description: Easy obfuscated VBA code challenge in cyberdefenders
+description: During your shift as a SOC analyst, the enterprise EDR alerted a
+  suspicious behavior from an end-user machine. The user indicated that he
+  received a recent email with a DOC file from an unknown sender and passed the
+  document for you to analyze.
 author: Naimul Islam
 date: 2023-08-01T07:43:57.799Z
 tags:
   - post
-image: /assets/blog/obfuscation-1.png
+image: https://cyberdefenders.org/media/terraform/Obfuscated/obfuscated.jpg
 imageAlt: Obfuscation
 ---
+>﻿ During your shift as a SOC analyst, the enterprise EDR alerted a suspicious behavior from an end-user machine. The user indicated that he received a recent email with a DOC file from an unknown sender and passed the document for you to analyze.
+
 ## 1. What is the sha256 hash of the doc file?
 ```
 ff2c8cadaa0fd8da6138cce6fce37e001f53a5d9ceccd67945b15ae273f4d751
