@@ -1,6 +1,10 @@
 ---
 title: Emprisa Maldoc Writeup - CyberDefenders
-description: RTF file analysis.
+description: As a SOC analyst, you were asked to inspect a suspected document
+  (RTF) a user received in his inbox. One of your colleagues told you that he
+  could not find anything suspicious. However, throwing the document into the
+  sandboxing solution triggered some alerts. Your job is to investigate the
+  document further and confirm whether it's malicious or not.
 author: Naimul Islam
 date: 2023-08-04T15:28:15.050Z
 tags:
