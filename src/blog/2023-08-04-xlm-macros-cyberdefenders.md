@@ -12,7 +12,7 @@ tags:
   - post
   - featured
 image: https://cyberdefenders.org/media/terraform/XLM%20Macros/XLM_Macros.jpg
-imageAlt: XLM
+imageAlt: ""
 ---
 
 > Recently, we have seen a resurgence of Excel-based malicous office documents. Howerver, instead of using VBA-style macros, they are using older style Excel 4 macros. This changes our approach to analyzing these documents, requiring a slightly different set of tools. In this challenge, you'll get hands-on with two documents that use Excel 4.0 macros to perform anti-analysis and download the next stage of the attack.
