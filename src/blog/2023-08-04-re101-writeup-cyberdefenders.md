@@ -8,7 +8,7 @@ date: 2023-07-30T07:17:43.312Z
 tags:
   - post
 image: https://cyberdefenders.org/media/terraform/RE101/RE101.jpg
-imageAlt: encrypted-code
+imageAlt: ""
 ---
 >﻿ RE101 challenge is a binary analysis exercise - a task security blue team analysts do to understand how a specific malware works and extract possible intel.
 
