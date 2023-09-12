@@ -9,7 +9,7 @@ date: 2023-08-06T09:15:40.046Z
 tags:
   - post
 image: https://cyberdefenders.org/media/terraform/HawkEye/HawkEye.jpg
-imageAlt: HawkEye
+imageAlt: ""
 ---
 > An accountant at your organization received an email regarding an invoice with a download link. Suspicious network traffic was observed shortly after opening the email. As a SOC analyst, investigate the network trace and analyze exfiltration attempts.
 
