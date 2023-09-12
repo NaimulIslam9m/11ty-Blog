@@ -6,7 +6,7 @@ date: 2023-05-05T09:53:25.977Z
 tags:
   - post
 image: https://images.unsplash.com/photo-1526566661780-1a67ea3c863e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxMXx8amlnc2F3JTIwcHV6emxlfGVufDB8fHx8MTY4MzI1ODU2NQ&ixlib=rb-4.0.3&q=80&w=1080
-imageAlt: " "
+imageAlt: ""
 ---
 [MITRE ATT&CK](https://attack.mitre.org/) is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 
