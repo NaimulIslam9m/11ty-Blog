@@ -9,7 +9,7 @@ date: 2023-08-01T07:43:57.799Z
 tags:
   - post
 image: https://cyberdefenders.org/media/terraform/Obfuscated/obfuscated.jpg
-imageAlt: Obfuscation
+imageAlt: ""
 ---
 >﻿ During your shift as a SOC analyst, the enterprise EDR alerted a suspicious behavior from an end-user machine. The user indicated that he received a recent email with a DOC file from an unknown sender and passed the document for you to analyze.
 
