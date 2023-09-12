@@ -6,7 +6,7 @@ date: 2022-12-31T09:49:48.535Z
 tags:
   - post
 image: https://images.unsplash.com/flagged/photo-1560854350-13c0b47a3180?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxfHxtYWx3YXJlfGVufDB8fHx8MTY4MTA4ODMyMw&ixlib=rb-4.0.3&q=80&w=1080
-imageAlt: " "
+imageAlt: ""
 ---
 [abuse.ch](https://abuse.ch/) is providing *community driven* threat intelligence on cyber threats with a strong focus on malware and botnets. It is a collection of following projects:
 
