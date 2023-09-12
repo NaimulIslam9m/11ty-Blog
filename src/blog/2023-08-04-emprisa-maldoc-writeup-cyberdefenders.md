@@ -10,7 +10,7 @@ date: 2023-08-04T15:28:15.050Z
 tags:
   - post
 image: https://cyberdefenders.org/media/terraform/Emprisa%20Maldoc/Emprisa_Maldoc.jpg
-imageAlt: RTF
+imageAlt: ""
 ---
 > As a SOC analyst, you were asked to inspect a suspected document a user received in his inbox. One of your colleagues told you that he could not find anything suspicious. However, throwing the document into the sandboxing solution triggered some alerts.
 >
